@@ -1,0 +1,10 @@
+* resignal-bind
+
+Tiny signal capturing facility for common lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/hyotang666/resignal-bind.git   |
+| commit  | 22055a0  |
+| systems | resignal-bind |
+|---------+-------------------------------------------|
+
